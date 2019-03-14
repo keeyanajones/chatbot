@@ -1,3 +1,3 @@
 # discord-bot
 Discord bot 
-![Bot](yt_Wallpaper.png)
+![Bot](d_Wallpaper.png)
