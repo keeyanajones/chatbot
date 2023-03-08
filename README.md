@@ -1,8 +1,5 @@
-# discord-bot
-Discord bot starter
-
-
-![Bot](d_Wallpaper.png)
+# chatbot
+Discord ai bot starter
 
 IN DEVELOPMENT
 VERSION 1.0.1
